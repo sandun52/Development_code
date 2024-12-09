@@ -16,6 +16,10 @@ public class testngtest {
 		
 		System.out.println("i am second test case ");
 		
+		System.out.println("i changed code 01 ");
+		
+		System.out.println("i change code 02 ");
+		
 	}
 
 }
