@@ -22,6 +22,7 @@ public class testngtest {
 		
 		System.out.println("i going to check ci cd intigration ");
 		System.out.println("i going to check ci cd intigration 02 ");
+		System.out.println("i going to check ci cd intigration 03");
 		
 	}
 
