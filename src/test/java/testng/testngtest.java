@@ -20,6 +20,8 @@ public class testngtest {
 		
 		System.out.println("i change code 02 ");
 		
+		System.out.println("i going to check ci cd intigration ");
+		
 	}
 
 }
